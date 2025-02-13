@@ -26,7 +26,7 @@ Wilt' Dataset Overview:
 
 ### 2.1 Box-Plot
 
-![image-boxplot](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250213151242496.png)
+![image-boxplot](image/image-boxplot.png)
 
 - **GLCM_pan**: Slightly dispersed, approximately normally distributed, with a large median; the distribution of outliers is relatively balanced.
 - **Mean_Green**: Downward aggregation is very obvious, with a small median; outliers are concentrated on the larger side.
@@ -49,13 +49,13 @@ The median and mean of GLCM_pan are very close, while the variance of Mean_Green
 
 ### 2.3 Scatter Plot & Histogram
 
-![image-scatterplot](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250213152510197.png)
+![image-scatterplot](image/image-scatterplot.png)
 
-![image-histogram](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250213152546389.png)
+![image-histogram](image/image-histogram.png)
 
 ### 2.4 Heatmap
 
-![image-heatmap](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250213152726877.png)Mean_Green and Mean_Red have a high correlation.
+![image-heatmap](image/image-heatmap.png)Mean_Green and Mean_Red have a high correlation.
 
 ## 3. Data Cleaning
 
