@@ -56,6 +56,7 @@ The median and mean of GLCM_pan are very close, while the variance of Mean_Green
 ### 2.4 Heatmap
 
 ![image-heatmap](image/image-heatmap.png)
+
 Mean_Green and Mean_Red have a high correlation.
 
 ## 3. Data Cleaning
